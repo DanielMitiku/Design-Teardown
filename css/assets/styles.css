@@ -1,0 +1,48 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: rgb(155, 149, 149);
+}
+.top-div{
+    height: 150px;
+    width: 100%;
+}
+.top-divs{
+    padding: 15px 10px;
+    margin: 0 15px;
+    display: inline-block;
+    background-color: grey;
+    height: 100px;
+    width: 10%;
+}
+.main-div{
+    width: 100%;
+}
+.main-top-divs{
+    height: 500px;
+    float: left;
+    width: 50%;
+}
+.main-bottom-div{
+    clear: left;
+}
+.main-bottom-divs{
+    float: left;
+    height: 500px;
+    display: inline-block;
+    width: 50%;
+}
+.main-top-left{
+    background-color: rgb(184, 179, 174);
+}
+.main-top-right{
+    background-color: rgb(133, 130, 128);
+}
+.main-bottom-left{
+    background-color: rgb(136, 130, 124);
+}
+.main-bottom-right{
+    background-color: rgb(110, 105, 99);
+}
