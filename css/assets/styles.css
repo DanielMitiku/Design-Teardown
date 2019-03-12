@@ -6,12 +6,12 @@ body{
     background-color: rgb(155, 149, 149);
 }
 .top-div{
-    height: 150px;
+    height: 160px;
     width: 100%;
 }
 .top-divs{
     padding: 15px 10px;
-    margin: 0 15px;
+    margin: 10px 15px;
     display: inline-block;
     background-color: grey;
     height: 100px;
