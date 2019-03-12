@@ -36,13 +36,245 @@ body{
 }
 .main-top-left{
     background-color: rgb(184, 179, 174);
+    height: 600px;
 }
 .main-top-right{
     background-color: rgb(133, 130, 128);
+    height: 600px;
 }
 .main-bottom-left{
     background-color: rgb(136, 130, 124);
+    height: 600px;
 }
 .main-bottom-right{
     background-color: rgb(110, 105, 99);
+    height: 600px;
+}
+
+#half-light{
+height: 40px;
+width: 50px;
+float: left;
+margin-left: 250px;
+margin-top: 20px;
+background-color: rgb(90, 90, 90);
+}
+#serious-red{
+height: 40px;
+width: 150px;
+float: left;
+margin-left: 10px;
+margin-top: 20px;
+background-color: rgb(90, 90, 90);
+}
+
+#dont-miss-left{
+    height: 40px;
+    width: 150px;
+    background-color: rgb(90, 90, 90);
+    float: right;
+      clear: left;
+        margin-top: 20px;
+}
+
+#article-left{
+    height: 40px;
+    width: 50px;
+     background-color: rgb(90, 90, 90);
+    float: right;
+    clear: right;
+}
+
+#dont-miss-right{
+    height: 40px;
+    width: 150px;
+    background-color: rgb(90, 90, 90);
+    float: left;
+
+        margin-top: 20px;
+}
+
+#article-right{
+    height: 40px;
+    width: 50px;
+     background-color: rgb(90, 90, 90);
+    float: left;
+    margin-top: 0;
+    padding-top: 0;
+    clear: left;
+}
+.pic-rachel{
+height: 50px;
+width: 50px;
+margin-top: 150px;
+margin-left: 50px;
+float: left;
+background-color: rgb(90, 90, 90);
+}
+.name-rachel{
+    height: 20px;
+    width: 100px;
+    float: left;
+    margin-left: 10px;
+background-color: rgb(90, 90, 90);
+margin-top: 150px;
+}
+
+.design-aar{
+width: 450px;
+height: 50px;
+margin-top: 50px;
+margin-left: 50px;
+float: left;
+clear: right;
+clear: left;
+background-color: rgb(90, 90, 90);
+}
+.design-aar2{
+    margin-top: 10px;
+}
+.unit-fcss{
+width: 200px;
+height: 50px;
+margin-top: 10px;
+margin-left: 50px;
+float: left;
+clear: right;
+background-color: rgb(90, 90, 90);
+}
+.leave-com{
+width: 100px;
+height: 20px;
+margin-left: 10px;
+float: left;
+margin-top: 10px;
+background-color: rgb(90, 90, 90);
+}
+.css{
+    width: 75px;
+    height: 10px;
+    margin-top: 50px;
+    margin-left: 50px;
+    float: left;
+    background-color: rgb(90, 90, 90);
+    clear: left;
+}
+.css-2{
+    width: 120px;
+}
+.browsers{
+    width: 100px;
+    height: 10px;
+    margin-top: 50px;
+    margin-left: 10px;
+    float: left;
+    background-color: rgb(90, 90, 90);
+}
+.browsers-2{
+    width: 120px;
+}
+
+
+
+.pic-suzanne{
+height: 50px;
+width: 50px;
+margin-top: 150px;
+margin-left: 50px;
+float: left;
+background-color: rgb(90, 90, 90);
+}
+.name-suzanne{
+    height: 20px;
+    width: 100px;
+    float: left;
+    margin-left: 10px;
+background-color: rgb(90, 90, 90);
+margin-top: 150px;
+}
+
+.can-ymm{
+width: 450px;
+height: 50px;
+margin-top: 50px;
+margin-left: 50px;
+float: left;
+clear: right;
+clear: left;
+background-color: rgb(90, 90, 90);
+}
+.money-wama{
+width: 450px;
+height: 50px;
+margin-top: 10px;
+margin-left: 50px;
+float: left;
+clear: right;
+background-color: rgb(90, 90, 90);
+}
+.or-apwa{
+    width: 200px;
+height: 50px;
+margin-top: 10px;
+margin-left: 50px;
+float: left;
+clear: left;
+background-color: rgb(90, 90, 90);
+}
+.com{
+width: 100px;
+height: 20px;
+margin-left: 10px;
+float: left;
+margin-top: 10px;
+background-color: rgb(90, 90, 90);
+}
+.pwa{
+    width: 75px;
+    height: 10px;
+    margin-top: 50px;
+    margin-left: 50px;
+    float: left;
+    background-color: rgb(90, 90, 90);
+    clear: left;
+}
+.pwa-2{
+    width: 100px;
+ }
+.business{
+    width: 100px;
+    height: 10px;
+    margin-top: 50px;
+    margin-left: 10px;
+    float: left;
+    background-color: rgb(90, 90, 90);
+}
+.business-2{
+
+}
+.clients{
+    width: 100px;
+    height: 10px;
+    margin-top: 50px;
+    margin-left: 10px;
+    float: left;
+    background-color: rgb(90, 90, 90);
+}
+#des-pat{
+     width: 100px;
+    height: 10px;
+    margin-top: 20px;
+    margin-left: 50px;
+    float: left;
+    background-color: rgb(90, 90, 90);
+    clear: left;
+}
+#user-exp{
+    width: 100px;
+    height: 10px;
+    margin-top: 20px;
+    margin-left: 50px;
+    float: left;
+    background-color: rgb(90, 90, 90);
+    clear: left;
 }
