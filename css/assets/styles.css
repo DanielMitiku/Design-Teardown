@@ -36,6 +36,9 @@ body{
     width: 200px;
     height: 50px;
 }
+.main-top-div{
+    overflow: hidden;
+}
 .main-top-divs{
     height: 500px;
     float: left;
@@ -43,6 +46,7 @@ body{
 }
 .main-bottom-div{
     clear: left;
+    overflow: hidden;
 }
 .main-bottom-divs{
     float: left;
